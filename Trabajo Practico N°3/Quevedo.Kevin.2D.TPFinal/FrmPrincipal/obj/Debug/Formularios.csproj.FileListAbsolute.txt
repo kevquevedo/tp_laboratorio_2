@@ -1,0 +1,42 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Fabrica.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Fabrica.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Productos.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmPedidos.resources
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmFabrica.resources
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Archivador.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Archivador.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.exe.config
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.exe
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\FrmPrincipal.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Archivador.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Excepciones.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Fabrica.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Productos.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Archivador.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Fabrica.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\bin\Debug\Productos.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmFabrica.resources
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmPedidos.resources
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.Properties.Resources.resources
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.exe
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\FrmPrincipal\obj\Debug\FrmPrincipal.pdb

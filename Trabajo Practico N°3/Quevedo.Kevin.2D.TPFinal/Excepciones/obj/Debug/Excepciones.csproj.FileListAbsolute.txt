@@ -1,0 +1,12 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Kevin\OneDrive\Escritorio\C#\tp_laboratorio_2\Trabajo Practico N°3\Quevedo.Kevin.2D.TPFinal\Excepciones\obj\Debug\Excepciones.pdb

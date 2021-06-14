@@ -1,0 +1,9 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\bin\Debug\Archivador.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\bin\Debug\Archivador.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\obj\Debug\Archivador.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\obj\Debug\Archivador.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\obj\Debug\Archivador.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\obj\Debug\Archivador.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\bin\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\bin\Debug\Productos.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Archivador\obj\Debug\Archivador.csproj.CopyComplete
