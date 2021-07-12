@@ -1,0 +1,14 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\PruebaConsola.exe.config
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\PruebaConsola.exe
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\PruebaConsola.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Fabrica.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Excepciones.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Fabrica.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Productos.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\bin\Debug\Excepciones.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\obj\Debug\PruebaConsola.exe
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\PruebaConsola\obj\Debug\PruebaConsola.pdb

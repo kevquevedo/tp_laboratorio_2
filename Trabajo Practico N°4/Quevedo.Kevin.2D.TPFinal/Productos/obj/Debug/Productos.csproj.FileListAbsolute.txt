@@ -1,0 +1,6 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\bin\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\bin\Debug\Productos.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\obj\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Productos\obj\Debug\Productos.pdb

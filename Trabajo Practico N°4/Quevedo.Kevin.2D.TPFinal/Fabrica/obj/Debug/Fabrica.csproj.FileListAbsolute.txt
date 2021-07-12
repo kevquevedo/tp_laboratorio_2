@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Fabrica.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Fabrica.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Productos.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Productos.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\obj\Debug\Fabrica.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\obj\Debug\Fabrica.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\obj\Debug\Fabrica.pdb
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Excepciones.dll
+C:\Users\Kevin\source\repos\Quevedo.Kevin.2D.TPFinal\Fabrica\bin\Debug\Excepciones.pdb
